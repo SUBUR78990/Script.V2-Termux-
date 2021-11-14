@@ -25,6 +25,9 @@ echo "╠═══════════════════════�
 echo "      ANAK DESA BOJONG RENGET           " | lolcat
 echo "╠════════════════════════════════════╡"  | lolcat
 echo
-echo
+
 
 (silahkan ganti dengan nama anda sendiri)
+
+
+ketik kan Login pada Termux Anda
